@@ -121,6 +121,7 @@ At least one AI provider key is needed for real assistant responses. Without a p
 | Route | Purpose |
 | --- | --- |
 | `/sign-in` | Authentication page with email/password and GitHub sign-in UI. |
+| `/sign-up` | Account creation page with email/password and GitHub sign-up UI. |
 | `/` | Protected root workspace entry. |
 | `/chat` | Protected new-chat workspace. |
 | `/chat/[chatId]` | Protected existing chat thread. |

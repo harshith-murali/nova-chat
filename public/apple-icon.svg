@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" role="img" aria-label="Nova Chat logo">
+  <rect width="180" height="180" rx="44" fill="#09090b"/>
+  <rect x="4" y="4" width="172" height="172" rx="40" fill="none" stroke="rgba(255,255,255,0.14)" stroke-width="4"/>
+  <path d="M50 123V57h14.5L113 123H99.5L64 75.1V123H50Z" fill="#f8fafc"/>
+  <path d="M126 52v18M126 110v18M88 90h18M146 90h-18M140.8 63.2l-12.7 12.7M123.9 104.1l-12.7 12.7M111.2 63.2l12.7 12.7M128.1 104.1l12.7 12.7" stroke="#818cf8" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="126" cy="90" r="12" fill="#6366f1"/>
+</svg>
